@@ -8,12 +8,12 @@ The Methodology is based on the concept of Supervised Learning which is a type o
 Our approach was applied to Oscar winners and losers over the past 38 years and the model made correct predictions for all years except 1 year which was 2017. After evaluating multiple models with the supervised learning algorithm and importance of features, I determined that random forest classification provided the most accurate prediction of previous Oscar winners.
 
 ### Technologies Used
-Python - Jupyter
+- Python - Jupyter
 
 ### Dependencies
-NumPy
-Pandas
-SciKit learn
+- NumPy
+- Pandas
+- SciKit learn
 
 
 
